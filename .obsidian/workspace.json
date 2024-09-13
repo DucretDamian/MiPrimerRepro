@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "bfa7568c569928ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,6 +142,8 @@
   "active": "9a9fdf42b1490216",
   "lastOpenFiles": [
     "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
+    "Carpeta Facultad/1er año/Algebra y Geometría Análitica",
+    "Carpeta Facultad/1er año",
     "Carpeta Facultad/1er año/Ingles 1/Ingles 1.md",
     "Carpeta Facultad/1er año/Matemática Discreta/Matemática Discreta.md",
     "Carpeta Facultad/1er año/Sistema de Organización/Sistema de Organización.md",
@@ -184,10 +169,7 @@
     "Carpeta Facultad/1er año/Sistema de Organización",
     "Carpeta Facultad/1er año/Matemática Discreta",
     "Carpeta Facultad/1er año/Ingles 1",
-    "Carpeta Facultad/2do año",
-    "Carpeta Facultad/2do año/Análisis Matemático 2",
     "Comunicación de Datos/Comunicación de Datos.md",
-    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Matematica Discreta.md"

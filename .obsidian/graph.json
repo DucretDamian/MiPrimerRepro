@@ -25,6 +25,10 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
+<<<<<<< HEAD
   "scale": 0.09392927902847059,
+=======
+  "scale": 0.39572784704765573,
+>>>>>>> 6ea41c9 ('Pase_a_net')
   "close": true
 }
