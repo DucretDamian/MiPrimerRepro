@@ -1,6 +1,3 @@
----
-tags: []
----
 
 Materias de 1er año
 - 1er Cuatrimestre: #Algebra-Y-Geometria-Analitica, #Matemática-Discreta , #Ingles-1, #Física-1
