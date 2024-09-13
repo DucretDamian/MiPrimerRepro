@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "7038d5e6511fc3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cc5d271322ace29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd26037a033ff19",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c9515868df53bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "50360593036d71df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9fdf42b1490216",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89411d55e4eb00bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Materias",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60258b10eb30ecc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "12e0f1d27ea42522",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc97fd853830b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f29d6f60abae5d77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2df59c5c11372bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e37e8b0f5f009470",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d8a00067e5a70101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afd26037a033ff19",
+  "lastOpenFiles": [
+    "Carpeta Facultad/1er año/Ingles 1/Ingles 1.md",
+    "Carpeta Facultad/1er año/Matemática Discreta/Matemática Discreta.md",
+    "Carpeta Facultad/1er año/Sistema de Organización/Sistema de Organización.md",
+    "Carpeta Facultad/1er año/Fisica 1/Física 1.md",
+    "Carpeta Facultad/1er año/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+    "Carpeta Facultad/2do año/Análisis Matemático 2/Análisis Matemático 2.md",
+    "Carpeta Facultad/1er año/Análisis Matemático 1/Análisis Matemático 1.md",
+    "Carpeta Facultad/2do año/Análisis de Sistema de Inforamación/Análisis de Sistema de Información.md",
+    "Carpeta Facultad/1er año/Algoritmo y Estructura de Datos/Algoritmo y Estructura de Datos.md",
+    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Algebra y Geometría Analítica.md",
+    "Carpeta Facultad/Facultad.md",
+    "Sistema Operativo.md",
+    "Carpeta Facultad/2do año/Ingles 2/Present Perfect.md",
+    "Carpeta Facultad/2do año/Ingles 2/ModalVerbs.md",
+    "Carpeta Facultad/2do año/Ingles 2/Present Simple.md",
+    "Ingles 4.md",
+    "Carpeta Facultad/2do año/Ingles 2",
+    "2024-09-10.md",
+    "Carpeta Facultad",
+    "Comunicación de Datos",
+    "Carpeta Facultad/2do año/Análisis de Sistema de Inforamación",
+    "Carpeta Facultad/1er año/Arquitectura de Computadoras",
+    "Carpeta Facultad/1er año/Sistema de Organización",
+    "Carpeta Facultad/1er año/Matemática Discreta",
+    "Carpeta Facultad/1er año/Ingles 1",
+    "Carpeta Facultad/2do año",
+    "Carpeta Facultad/2do año/Análisis Matemático 2",
+    "Comunicación de Datos/Comunicación de Datos.md",
+    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Matematica Discreta.md"
+  ]
+}
