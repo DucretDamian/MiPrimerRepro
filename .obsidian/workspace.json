@@ -1,35 +1,56 @@
 {
   "main": {
-    "id": "7038d5e6511fc3dd",
+    "id": "979d779bcd042422",
     "type": "split",
     "children": [
       {
-        "id": "8cc5d271322ace29",
+        "id": "e5a0cfb1679962ea",
         "type": "tabs",
         "children": [
           {
-            "id": "afd26037a033ff19",
+            "id": "3cb8419ead35c25e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "bfbfafe7826b8796",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c51e4c452cab098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Connectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c9515868df53bc5",
+    "id": "71a3a48417f30535",
     "type": "split",
     "children": [
       {
-        "id": "50360593036d71df",
+        "id": "da87f0ebac2f03f5",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9fdf42b1490216",
+            "id": "03fbcec9b9551a32",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +60,12 @@
             }
           },
           {
-            "id": "89411d55e4eb00bb",
+            "id": "e0118db86aac9d7f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Materias",
+                "query": "ingles2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +75,7 @@
             }
           },
           {
-            "id": "60258b10eb30ecc5",
+            "id": "70f919a361411189",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +86,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 200
   },
   "right": {
-    "id": "12e0f1d27ea42522",
+    "id": "354e9f978d14ef28",
     "type": "split",
     "children": [
       {
-        "id": "2cc97fd853830b9c",
+        "id": "e771e426c2deac82",
         "type": "tabs",
         "children": [
           {
-            "id": "f29d6f60abae5d77",
+            "id": "8a27c96f71d7d591",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +113,7 @@
             }
           },
           {
-            "id": "a2df59c5c11372bd",
+            "id": "11456aa027792128",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,30 +124,29 @@
             }
           },
           {
-            "id": "e37e8b0f5f009470",
+            "id": "48d332231df9ebce",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "d8a00067e5a70101",
+            "id": "966213cabaacf517",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -136,42 +156,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a9fdf42b1490216",
+  "active": "bfbfafe7826b8796",
   "lastOpenFiles": [
-    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
-    "Carpeta Facultad/1er año/Algebra y Geometría Análitica",
-    "Carpeta Facultad/1er año",
-    "Carpeta Facultad/1er año/Ingles 1/Ingles 1.md",
-    "Carpeta Facultad/1er año/Matemática Discreta/Matemática Discreta.md",
-    "Carpeta Facultad/1er año/Sistema de Organización/Sistema de Organización.md",
-    "Carpeta Facultad/1er año/Fisica 1/Física 1.md",
-    "Carpeta Facultad/1er año/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
-    "Carpeta Facultad/2do año/Análisis Matemático 2/Análisis Matemático 2.md",
-    "Carpeta Facultad/1er año/Análisis Matemático 1/Análisis Matemático 1.md",
-    "Carpeta Facultad/2do año/Análisis de Sistema de Inforamación/Análisis de Sistema de Información.md",
-    "Carpeta Facultad/1er año/Algoritmo y Estructura de Datos/Algoritmo y Estructura de Datos.md",
-    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Algebra y Geometría Analítica.md",
-    "Carpeta Facultad/Facultad.md",
-    "Sistema Operativo.md",
-    "Carpeta Facultad/2do año/Ingles 2/Present Perfect.md",
+    "Connectors.md",
+    "Carpeta Facultad/2do año/Ingles 2/Possibility.md",
     "Carpeta Facultad/2do año/Ingles 2/ModalVerbs.md",
+    "Carpeta Facultad/2do año/Ingles 2/Infinitive of purpose.md",
+    "Carpeta Facultad/2do año/Ingles 2/Present Perfect.md",
     "Carpeta Facultad/2do año/Ingles 2/Present Simple.md",
-    "Ingles 4.md",
-    "Carpeta Facultad/2do año/Ingles 2",
-    "2024-09-10.md",
-    "Carpeta Facultad",
-    "Comunicación de Datos",
-    "Carpeta Facultad/2do año/Análisis de Sistema de Inforamación",
-    "Carpeta Facultad/1er año/Arquitectura de Computadoras",
-    "Carpeta Facultad/1er año/Sistema de Organización",
-    "Carpeta Facultad/1er año/Matemática Discreta",
-    "Carpeta Facultad/1er año/Ingles 1",
-    "Comunicación de Datos/Comunicación de Datos.md",
-    "Untitled 1.canvas",
+    "Carpeta Facultad/2do año/Ingles 2/Should or Shouldn’t and Have.md",
+    "Carpeta Facultad/Facultad.md",
     "Untitled.canvas",
-    "Matematica Discreta.md"
+    "Drawing 2024-09-19 21.01.47.excalidraw.md",
+    "Pasted image 20240919210134.png",
+    "Excalidraw/Drawing 2024-09-19 21.00.26.excalidraw.md",
+    "Excalidraw",
+    "Carpeta Facultad/1er año/Algebra y Geometría Análitica/Sistema de Ecuaciones.md",
+    "Diseño de Sistemas de Información.md"
   ]
 }
